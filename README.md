@@ -3,10 +3,6 @@
 A [ZHMModSDK](https://github.com/OrfeasZ/ZHMModSDK) mod for **HITMAN World of Assassination** that shows where
 the pieces of broken objects go, and measures what happens under 47's feet when debris carries him upwards.
 
-It was made to study the "violin boost": when 47 stands on the pieces of something that breaks (a violin, a vase,
-a breaching charge's debris), PhysX can carry him up through the ceiling. Debris Tracer draws the pieces, follows
-them, and reads what the physics engine itself says about them.
-
 ## Features
 
 - **Track the fragments around 47**: every new piece of debris within a radius you choose gets a line along its
